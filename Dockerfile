@@ -1,5 +1,7 @@
 FROM python:3
 
+label MAINTAINER <alexander.malic at maastrichtuniversity.nl>
+
 WORKDIR /app
 
 RUN apt-get update && \
