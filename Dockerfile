@@ -1,6 +1,6 @@
 FROM python:3
 
-label MAINTAINER <alexander.malic at maastrichtuniversity.nl>
+LABEL MAINTAINER <alexander.malic at maastrichtuniversity.nl>
 
 WORKDIR /app
 
