@@ -1,12 +1,10 @@
 # tikapp-docker
+Docker version of https://github.com/fedelemantuano/tika-app-python
 
 ## Build
 ```shell
 docker build -t tikapp .
 ```
-
-
-
 ## Run (sample pdf)
 [Usage](https://github.com/fedelemantuano/tika-app-python#usage-from-command-line)
 ```shell
